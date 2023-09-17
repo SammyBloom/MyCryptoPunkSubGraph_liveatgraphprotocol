@@ -32,7 +32,7 @@ The subgraph was not published because of lack of ethereum to publish it.
 
 ### Images
 
-![Image of my deployed subgraph](images\subgraph.png)
+![Image of my deployed subgraph](images/subgraph.png)
 
 <hr>
 
